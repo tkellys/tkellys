@@ -15,7 +15,11 @@
   <img align="center" alt="kelly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kelly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="kelly-pic" height="150" style="border-radius:50px;" 
-  <img align="right" alt="Mirandox-gif" src="https://media.giphy.com/media/8R18FnLebbKGDEcHy0/giphy.gif">
-  <img align="right" src="https://komarev.com/ghpvc/?username=tkellys&color=green" alt="tkellys"/>
+       
+<!--    colocar meu GIF  AQUI EM BAIXO   -->
+  <img align="right" alt="Mirandox-gif" src="">
+  
+  
+  <img align="right" src="https://komarev.com/ghpvc/?username=tkellys&color=pink" alt="tkellys"/>
        
       
