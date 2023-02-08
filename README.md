@@ -18,10 +18,10 @@
   <img align="center" alt="kelly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="kelly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kelly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="kelly-pic" height="150" style="border-radius:50px;"> 
+<!--   <img align="right" alt="kelly-pic" height="150" style="border-radius:50px;">  -->
        
 <!--    colocar meu GIF  AQUI EM BAIXO   -->
-  <img align="right" alt="" width="45px" src="https://cdn.picrew.me/shareImg/org/202302/338224_LGPyIeWi.png">
+  <img align="right" alt="" width="80px" src="https://cdn.picrew.me/shareImg/org/202302/338224_LGPyIeWi.png">
 
   
   
