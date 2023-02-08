@@ -2,7 +2,7 @@
 
  <img align="right" src="https://komarev.com/ghpvc/?username=tkellys&color=green" alt="tkellys"/>
  
-   <img align="right" alt="" width="200px" src="https://cdn.picrew.me/shareImg/org/202302/338224_LGPyIeWi.png">
+   <img align="right" alt="" width="180px" src="https://cdn.picrew.me/shareImg/org/202302/338224_LGPyIeWi.png">
  
  **About me**
 
