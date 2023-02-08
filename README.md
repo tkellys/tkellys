@@ -6,6 +6,7 @@
 
 - 🌱 Estudando FullStack
 - 😄 Pronouns: ela/dela
+-   <img align="right" alt="" width="200px" src="https://cdn.picrew.me/shareImg/org/202302/338224_LGPyIeWi.png">
 
 <div align="center">
   <a href="https://github.com/tkellys">
@@ -21,7 +22,7 @@
 <!--   <img align="right" alt="kelly-pic" height="150" style="border-radius:50px;">  -->
        
 <!--    colocar meu GIF  AQUI EM BAIXO   -->
-  <img align="right" alt="" width="200px" src="https://cdn.picrew.me/shareImg/org/202302/338224_LGPyIeWi.png">
+
 
   
   
