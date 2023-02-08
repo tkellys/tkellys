@@ -21,7 +21,8 @@
   <img align="right" alt="kelly-pic" height="150" style="border-radius:50px;"> 
        
 <!--    colocar meu GIF  AQUI EM BAIXO   -->
-  <img align="right" alt="" src="https://picrew.me/share?cd=WxW4">
+  <img align="right" alt="" src="https://user-images.githubusercontent.com/116043363/217401647-026d46cc-3c25-477d-86c8-3c47107ed83a.png"
+
   
   
   ![Snake animation](https://github.com/mirandox/mirandox/blob/output/github-contribution-grid-snake.svg)
