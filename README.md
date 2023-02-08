@@ -21,7 +21,7 @@
   <img align="right" alt="kelly-pic" height="150" style="border-radius:50px;"> 
        
 <!--    colocar meu GIF  AQUI EM BAIXO   -->
-  <img align="right" alt="" src="Picrewの「AmphyPop Doll Maker」でつくったよ！ https://picrew.me/share?cd=WxW4Esrdya #Picrew #AmphyPop_Doll_Maker">
+  <img align="right" alt="" src="https://picrew.me/share?cd=WxW4Esrdya">
   
   
   ![Snake animation](https://github.com/mirandox/mirandox/blob/output/github-contribution-grid-snake.svg)
