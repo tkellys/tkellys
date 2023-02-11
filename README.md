@@ -27,6 +27,5 @@
 
   
   
-  ![Snake animation](https://github.com/mirandox/mirandox/blob/output/github-contribution-grid-snake.svg)
        
       
