@@ -14,9 +14,9 @@
   <img align="center" alt="kelly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="kelly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kelly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <br>
 
-<div align="center">
+
+<div align="center" "display: inline_block">
   <a href="https://github.com/tkellys">
      <a href="https://github.com/tkellys/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tkellys&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kelly github stats" /></a> | <a href="https://github.com/tkellys/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkellys&layout=compact&theme=buefy&hide_border=true" /></a> |
 </div>
