@@ -1,4 +1,4 @@
-### Oiii! Eu sou Kelly 🤞
+### Oiii! My name is Kelly 🤞
 
  <img align="right" src="https://komarev.com/ghpvc/?username=tkellys&color=green" alt="tkellys"/>
  
