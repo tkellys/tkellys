@@ -6,8 +6,8 @@
  
  **About me**
 
-- 🌱 Estudando FullStack
-- 😄 Pronouns: ela/dela
+- Analista de Qualidade 
+
 
 
 <div style="display: inline_block"><br>
